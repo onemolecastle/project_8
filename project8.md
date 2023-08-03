@@ -7,7 +7,9 @@
 3. Install Apache Load Balancer on Project-8-apache-lb server and configure it to point traffic coming to LB to both Web Servers
 
 #Install apache2
+
 `sudo apt update`
+
 ![alt text](./images/2.png)
 
 `sudo apt install apache2 -y`
